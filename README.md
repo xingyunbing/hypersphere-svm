@@ -3,7 +3,7 @@
 
 识别新类别
 
-Matlab实现
+Matlab，cvx-w64
 
 传统SVM做基准
 
