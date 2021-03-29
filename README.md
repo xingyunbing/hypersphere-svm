@@ -1,10 +1,11 @@
 # hypersphere-_svm
-超球面SVM
 
-识别新类别
+超球面SVM识别新类别
 
-Matlab，cvx-w64
+语言：Matlab
+支持库：cvx-w64
 
-传统SVM做基准
+svm_hypersphere_infrared.m：超球面SVM
+svm_tradition_har.m：传统SVM
 
 
