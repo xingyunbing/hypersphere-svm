@@ -1,4 +1,4 @@
-# hypersphere-_svm
+# hypersphere-svm
 
 超球面SVM识别新类别
 
